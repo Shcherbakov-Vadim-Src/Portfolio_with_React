@@ -1,0 +1,113 @@
+body {
+    padding: 30px;
+    background-color: rgb(245, 252, 252);
+}
+
+hr {
+    width: 800px;
+    margin: 10px 0 20px 0;
+}
+
+.main {
+    width: 900px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 30px;
+    height: 470px;
+}
+
+.linksConteiner {
+    text-align: center;
+}
+
+.links {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 10px 20px 10px;
+    font-weight: 800;
+}
+
+.mainPhoto {
+    width: 400px;
+    margin: 40px 0 0 0;
+}
+
+.conteinerFirst {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+}
+
+.conteinerFirstMini {
+    margin: 10px 0 0px 30px;
+}
+
+.title {
+    width: 400px;
+    font-size: 40px;
+    margin: 20px 0 0 0;
+}
+
+.border {
+    font-weight: 800;
+}
+
+.paragraph {
+    font-size: 20px;
+    width: 400px;
+}
+
+.about {
+    width: 450px;
+}
+
+.mainSecondPhoto {
+    width: 300px;
+}
+
+.secondPageConteiner {
+    display: flex;
+    flex-direction: row;
+    margin: 40px 0 0 10px;
+}
+
+.listAwards {
+    width: 480px;
+    margin: -10px 0  0 30px;
+    font-size: 17px;
+    letter-spacing: 1.4px;
+    text-align: justify;
+}
+
+h2 {
+    margin: 0px 0 30px 200px;
+    width: 400px;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.thirdPageConteiner {
+    display: flex;
+    flex-direction: row;
+    margin: 40px 0 0 10px;
+}
+
+.mainThirdPhoto {
+    width: 400px;
+}
+
+h3 {
+    margin: 0px 0 30px 160px;
+    width: 400px;
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contactList {
+    margin: 0px 0 0 30px;
+}
+
+.contactItem {
+    font-size: 20px;
+    width: 400px;
+}
