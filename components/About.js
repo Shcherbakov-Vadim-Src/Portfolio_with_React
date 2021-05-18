@@ -7,7 +7,7 @@ export default function About() {
     return (
         <div className="conteinerFirst">
             <div>
-                <img className="mainPhoto" src="http://almode.ru/uploads/posts/2020-10/1603346470_49-p-semyuel-dzhekson-72.jpg" alt="Samuel Leroy Jackson" />
+                <img className="mainPhoto" src="http://fr.web.img2.acsta.net/r_1280_720/pictures/19/06/07/11/56/1852595" alt="Samuel Leroy Jackson" />
             </div>
             <div className="conteinerFirstMini">
                 <h1 className="title">Samuel Leroy Jackson</h1>
