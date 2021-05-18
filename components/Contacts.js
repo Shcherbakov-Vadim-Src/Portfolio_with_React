@@ -7,7 +7,7 @@ export default function Contacts() {
     return (
         <div className="thirdPageConteiner">
         <div>
-            <img className="mainThirdPhoto" src="http://fr.web.img2.acsta.net/r_1280_720/pictures/19/06/07/11/56/1852595.jpg" alt="Samuel Leroy Jackson" />
+            <img className="mainThirdPhoto" src="http://fr.web.img2.acsta.net/r_1280_720/pictures/19/06/07/11/56/1852595" alt="Samuel Leroy Jackson" />
         </div>
         <div className="contactList">
             <h3>Contacts:</h3>
