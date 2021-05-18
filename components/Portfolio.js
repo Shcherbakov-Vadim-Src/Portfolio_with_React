@@ -7,7 +7,7 @@ export default function Portfolio() {
     return (
         <div className="secondPageConteiner">
             <div>
-                <img className="mainSecondPhoto" src="http://almode.ru/uploads/posts/2020-10/1603346482_36-p-semyuel-dzhekson-58.jpg" alt="Samuel Leroy Jackson" />
+                <img className="mainSecondPhoto" src="http://fr.web.img2.acsta.net/r_1280_720/pictures/19/06/07/11/56/1852595.jpg" alt="Samuel Leroy Jackson" />
             </div>
             <div>
                 <h2>Portfolio:</h2>
